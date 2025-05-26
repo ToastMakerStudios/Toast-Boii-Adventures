@@ -1,2 +1,4 @@
 # Toast-Boii-Adventures
-Source and Binaries for the Toast Boii Adventure game.
+Toast Boii Adventures is a game developed by us, Toast Maker Studios.
+You explore as a Toast, and you fight different corrupt food enemies.
+It is mostly finished, with a few minor problems.
